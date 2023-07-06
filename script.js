@@ -25,7 +25,7 @@ window.addEventListener('load',()=> {
 ];
 // ============================
 // =============================
-let time = 4500;
+let time = 6500;
     function Auto_Play_Next() {
         if (counter == info.length - 1) {
             clearInterval(b);
@@ -89,7 +89,7 @@ let time = 4500;
         load.classList.add('hidden');
         slide.children[1].classList.remove('ac');
         slide.children[2].classList.remove('ac');
-       },1000);
+       },2000);
     }
     function next() {
         if (counter === info.length - 1) {
