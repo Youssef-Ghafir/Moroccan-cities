@@ -89,7 +89,7 @@ let time = 4500;
         load.classList.add('hidden');
         slide.children[1].classList.remove('ac');
         slide.children[2].classList.remove('ac');
-       },500);
+       },1000);
     }
     function next() {
         if (counter === info.length - 1) {
