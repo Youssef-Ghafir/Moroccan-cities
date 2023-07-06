@@ -21,7 +21,7 @@ window.addEventListener('load',()=> {
     ['Benim','ellal','images/Beni.jpg'],
     ['Teto','uan','images/tetouan.jpg'],
     ['Ouarz','azate','images/ouarzazate.jpg'],
-    ['Zag','ora','images/zagora.jpg']
+    ['Zag','ora','images/Zagora.jpg']
 ];
 // ============================
 // =============================
